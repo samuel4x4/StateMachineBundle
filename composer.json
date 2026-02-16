@@ -1,5 +1,5 @@
 {
-    "name": "winzou/state-machine-bundle",
+    "name": "samuel4x4/state-machine-bundle",
     "type": "symfony-bundle",
     "description": "Bundle for the very lightweight yet powerful PHP state machine",
     "keywords": ["symfony", "bundle", "statemachine"],
